@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333; 
+}
+nav {
+    background-color: #0057B4; 
+}
+
+a:focus, button:focus {
+    outline: 2px solid yellow; 
+}
